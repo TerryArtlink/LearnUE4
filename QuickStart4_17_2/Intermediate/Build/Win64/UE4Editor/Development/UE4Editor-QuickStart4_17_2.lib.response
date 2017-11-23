@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-QuickStart4_17_2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\UE4workplace\LearnUE4\QuickStart4_17_2\Intermediate\Build\Win64\UE4Editor\Development\QuickStart4_17_2\FloatingActor.cpp.obj"
+"F:\UE4workplace\LearnUE4\QuickStart4_17_2\Intermediate\Build\Win64\UE4Editor\Development\QuickStart4_17_2\QuickStart4_17_2.cpp.obj"
+"F:\UE4workplace\LearnUE4\QuickStart4_17_2\Intermediate\Build\Win64\UE4Editor\Development\QuickStart4_17_2\FloatingActor.gen.cpp.obj"
+"F:\UE4workplace\LearnUE4\QuickStart4_17_2\Intermediate\Build\Win64\UE4Editor\Development\QuickStart4_17_2\QuickStart4_17_2.init.gen.cpp.obj"
+"D:\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\QuickStart4_17_2\PCLaunch.rc.res"
+"D:\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"F:\UE4workplace\LearnUE4\QuickStart4_17_2\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-QuickStart4_17_2.lib"
